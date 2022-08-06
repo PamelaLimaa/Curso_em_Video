@@ -37,4 +37,7 @@ ex:
 idade >= 15 && idade <= 17 // a idade está entre 15 e 17
 estado == 'RJ' || estado == 'SP' // o estado é RJ ou SP
 salario > 1500 && sexo != 'M' // o salario é acima de 1500 e não é homem?
+
+Ternario
+teste ? true : false 
 */
